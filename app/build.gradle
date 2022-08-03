@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.attendence.app"
+        applicationId "com.attendance.app"
         minSdk 28
         targetSdk 32
         versionCode 1

@@ -1,4 +1,4 @@
-package com.attendence.app
+package com.attendance.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
