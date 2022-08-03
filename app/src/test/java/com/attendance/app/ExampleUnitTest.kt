@@ -1,4 +1,4 @@
-package com.attendence.app
+package com.attendance.app
 
 import org.junit.Test
 
